@@ -22,3 +22,19 @@ void draw() {
   rotate(-0.7);
   rect(201, 100, 63, 312);
 }
+
+
+//if (frameCount == 1 {
+//saveImage();
+//}
+
+//}
+
+//void saveImage(){
+// String name + "";
+
+//name += lightMode ? "1" : "0"; // insert variable where lightmode/correct is
+//name += correct ? "1" : "0";
+
+//save (name + "saved as "+ name + ".png"); 
+//}
